@@ -11,7 +11,7 @@ Convert a file to Base64 codes, vise versa
 * OSD.ahk
 * StrCompress.ahk
 
-[Go to Library...](https://github.com/dummyvoid/Library.AutoHotkey)
+[Go to Library...](https://github.com/dummyvoid/Lib.AutoHotkey)
 
 ## Screenshot 外觀圖
 ![alt Screenshot](https://github.com/dummyvoid/File2Base64/blob/main/File2Base64.png?raw=true)
