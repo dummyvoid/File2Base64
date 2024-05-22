@@ -1,5 +1,5 @@
 # File2Base64
-Convert a file to Base64 codes, vise versa
+Convert a file to Base64 codes, vise versa.  
 將檔案轉換為Base64編碼，反之亦可。
 
 ## Library Dependency 需要的庫
