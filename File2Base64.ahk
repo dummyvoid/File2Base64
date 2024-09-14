@@ -1,11 +1,11 @@
-﻿#SingleInstance Force
-#Include D:\App\AutoHotkey\Lib\ImagePut.ahk
-#Include D:\App\AutoHotkey\Lib\StrCompress.ahk
-#Include D:\App\AutoHotkey\Lib\Base64.ahk
-#Include D:\App\AutoHotkey\Lib\Base64TohBitmap.ahk
-#Include D:\App\AutoHotkey\Lib\Class_CtlColors.ahk
-#Include D:\App\AutoHotkey\Lib\IsOver.ahk
-#Include D:\App\AutoHotkey\Lib\OSD.ahk
+#SingleInstance Force
+#Include <ImagePut>
+#Include <StrCompress>
+#Include <Base64>
+#Include <Base64TohBitmap>
+#Include <Class_CtlColors>
+#Include <IsOver>
+#Include <OSD>
 
 SplitPath, A_ScriptFullPath, , , , ScriptName
 
