@@ -1,4 +1,4 @@
-#SingleInstance Force
+﻿#SingleInstance Force
 #Include <ImagePut>
 #Include <StrCompress>
 #Include <Base64>
